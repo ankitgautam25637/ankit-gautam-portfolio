@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+ # Ankit Gautam | Full Stack Web Developer
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio repository!
 
-This contains everything you need to run your app locally.
+I'm Ankit Gautam, a BCA student passionate about web development and building modern, responsive, and user-friendly websites.
 
-View your app in AI Studio: https://ai.studio/apps/ee8d754d-4ff8-48d6-b570-50fbd1d758d4
+## About Me
+
+- 🎓 BCA Student at Maharishi University of Information Technology
+- 💻 Interested in Full Stack Web Development
+- 🚀 Learning new technologies and building practical projects
+- 📍 Lucknow, Uttar Pradesh, India
+
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React
+- Node.js
+- PHP
+- MySQL
+- Git and GitHub
+
+## Projects
+
+This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and learning journey.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
 
+If the project uses a development server, follow the setup instructions for the relevant files.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Contact
+
+Feel free to connect with me on GitHub to explore my projects and follow my development journey.
+
+GitHub: [ankitgautam25637](https://github.com/ankitgautam25637)
+
+---
+
+Built with HTML, CSS, and JavaScript.
