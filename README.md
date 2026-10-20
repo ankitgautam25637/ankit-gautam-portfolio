@@ -1,46 +1,58 @@
- # Ankit Gautam | Full Stack Web Developer
+# Ankit Gautam — Personal Portfolio
 
-Welcome to my personal portfolio repository!
+A personal portfolio website showcasing my profile, web development skills, projects, and learning journey.
 
-I'm Ankit Gautam, a BCA student passionate about web development and building modern, responsive, and user-friendly websites.
+## About the Project
 
-## About Me
+This repository contains the source code for my personal portfolio website. It is designed to present my background as a BCA student and aspiring Full Stack Web Developer in a clean, responsive, and user-friendly layout.
 
-- 🎓 BCA Student at Maharishi University of Information Technology
-- 💻 Interested in Full Stack Web Development
-- 🚀 Learning new technologies and building practical projects
-- 📍 Lucknow, Uttar Pradesh, India
+## Technologies Used
 
-## Skills
+- **HTML5** — Website structure and content
+- **CSS3** — Styling, layout, colors, and responsive design
+- **JavaScript** — Interactive elements and website functionality
+- **Assets** — Images and other resources used by the website
+- **Git and GitHub** — Source code management and version control
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- React
-- Node.js
-- PHP
-- MySQL
-- Git and GitHub
+## Project Structure
 
-## Projects
+- `index.html` — Main webpage
+- `style.css` — Styles and visual design
+- `script.js` — JavaScript functionality
+- `assets/` — Project assets
+- `public/` — Public resources
+- `package.json` — Project metadata and available scripts
+- `.env.example` — Example environment configuration, if required
+- `netlify.toml` — Netlify deployment configuration
 
-This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and learning journey.
+## Features
+
+- Personal introduction and profile
+- Skills and technologies section
+- Portfolio projects showcase
+- Responsive website layout
+- Interactive elements powered by JavaScript
 
 ## Run Locally
 
-1. Clone this repository.
-2. Open the project folder.
+1. Clone this repository:
+
+   `git clone https://github.com/ankitgautam25637/ankit-gautam-portfolio.git`
+
+2. Open the downloaded project folder.
+
 3. Open `index.html` in your browser.
 
-If the project uses a development server, follow the setup instructions for the relevant files.
+If the project requires a development server or additional dependencies, check `package.json` for the available scripts and follow the required setup.
 
-## Contact
+## Developer
 
-Feel free to connect with me on GitHub to explore my projects and follow my development journey.
+**Ankit Gautam**
+
+BCA Student | Aspiring Full Stack Web Developer
 
 GitHub: [ankitgautam25637](https://github.com/ankitgautam25637)
 
 ---
 
-Built with HTML, CSS, and JavaScript.
+This project is part of my web development learning journey.
