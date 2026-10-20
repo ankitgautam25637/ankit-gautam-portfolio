@@ -1,0 +1,16 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="44" height="44" rx="10" fill="#0c1830" />
+  <path d="M10 32L17 12H21L28 32H23.8L22.2 27.2H15.8L14.2 32H10ZM17 23.6H21L19 17.2L17 23.6Z" fill="url(#agGrad1)" />
+  <path d="M34 22V30.5C34 31.3 33.3 32 32.5 32H26V28.2H30.2V22H34Z" fill="url(#agGrad2)" />
+  <path d="M25 18C25 14.7 27.7 12 31 12H34V15.8H31C29.8 15.8 28.8 16.8 28.8 18V20H25V18Z" fill="#38bdf8" />
+  <defs>
+    <linearGradient id="agGrad1" x1="10" y1="12" x2="28" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" />
+      <stop offset="1" stop-color="#2563eb" />
+    </linearGradient>
+    <linearGradient id="agGrad2" x1="26" y1="22" x2="34" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" />
+      <stop offset="1" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+</svg>
